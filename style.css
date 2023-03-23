@@ -1,0 +1,25 @@
+/* Examples selectors */
+.order-card {
+	position: relative;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	max-width: 32rem;
+	margin: 0.5rem 1rem;
+	padding: 1rem;
+	border: 1px solid #bbb;
+	border-radius: 1rem;
+
+	background-color: #e55;
+	box-shadow: 0 0 -15px 10px #999;
+
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+	font-size: 1.8rem;
+
+	color: #111;
+	text-align: center;
+	line-height: 1.5;
+	letter-spacing: 2px;
+}
